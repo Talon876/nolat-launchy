@@ -5,7 +5,7 @@ Nolat-Launchy
 
 Usage
 -----
-To use the skins, just put the folders located in `/skins` into your Launchy skins directory.
+To use the skin, just put the `Nolat Dark` directory in to your Launchy skins directory.
 
 Alternatively, open a powershell window as an admin and run `.\deploy.ps1`
 
