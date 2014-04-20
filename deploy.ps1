@@ -1,0 +1,1 @@
+cp -r '.\Nolat Dark' 'C:\Program Files (x86)\Launchy\skins' -force

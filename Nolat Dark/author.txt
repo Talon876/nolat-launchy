@@ -1,0 +1,7 @@
+Nolat Dark 1.0
+
+A wide, dark Windows 8-themed skin for Launchy.
+
+Created by Talon Daniels (http://nolat.org)
+
+Github source available at https://github.com/Talon876/launchy-w8
