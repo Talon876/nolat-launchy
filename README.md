@@ -1,7 +1,7 @@
 Nolat-Launchy
 =============
 
-![Minimal Dark Theme](https://raw.github.com/Talon876/nolat-launchy/master/gallery/nolat-dark.png)
+![Minimal Dark Theme](https://raw.githubusercontent.com/Talon876/nolat-launchy/master/gallery/nolat_dark.png)
 
 Usage
 -----
