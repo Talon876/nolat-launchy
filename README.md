@@ -3,6 +3,11 @@ Nolat-Launchy
 
 ![Minimal Dark Theme](https://raw.githubusercontent.com/Talon876/nolat-launchy/master/gallery/nolat_dark.png)
 
+Download
+--------
+
+Downloads are available [on GitHub](https://github.com/Talon876/nolat-launchy/releases/)
+
 Usage
 -----
 To use the skin, just put the `Nolat Dark` directory in to your Launchy skins directory.
